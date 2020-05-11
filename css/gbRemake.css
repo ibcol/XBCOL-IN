@@ -1,3 +1,8 @@
+.colorBgBk {
+    background-color: #000 !important;
+    border: #000;
+}
+
 .colorBk {
     color: #000 !important;
 }
